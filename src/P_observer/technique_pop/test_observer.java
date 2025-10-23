@@ -4,8 +4,8 @@ import P_observer.technique_pop.Onservers.Observer;
 import P_observer.technique_pop.Onservers.ObserverImpl1;
 import P_observer.technique_pop.Onservers.ObserverImpl2;
 import P_observer.technique_pop.observable.ObservableImpl;
-import javafx.event.EventHandler;
-import javafx.event.Event;
+//import javafx.event.EventHandler;
+//import javafx.event.Event;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
